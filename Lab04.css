@@ -1,0 +1,16 @@
+  
+tr, th
+{
+    border: solid #000000;
+    padding: 40px;
+}
+
+th.black
+{
+    background-color: black;
+}
+
+th.white
+{
+    background-color: white;
+}
